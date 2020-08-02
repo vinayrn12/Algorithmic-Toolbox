@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1594703165 source:d:\study\courses\algorithm specialization\algorithm toolbox\week 3\codes\max salary\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<algorithm>
+

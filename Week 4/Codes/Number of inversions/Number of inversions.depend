@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1594963705 source:d:\study\courses\algorithm specialization\algorithm toolbox\week 4\codes\number of inversions\main.cpp
+	<iostream>
+	<vector>
+

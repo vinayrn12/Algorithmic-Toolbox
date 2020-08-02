@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1594450158 source:d:\study\courses\algorithm specialization\algorithm toolbox\week 2\codes\last digit of sum of fib\main.cpp
+	<iostream>
+	<vector>
+

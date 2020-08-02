@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1594709466 source:d:\study\courses\algorithm specialization\algorithm toolbox\week 3\codes\max number of prizes\main.cpp
+	<iostream>
+	<vector>
+

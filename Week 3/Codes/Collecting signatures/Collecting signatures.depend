@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1594736858 source:d:\study\courses\algorithm specialization\algorithm toolbox\week 3\codes\collecting signatures\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<set>
+

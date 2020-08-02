@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1595087623 source:d:\study\courses\algorithm specialization\algorithm toolbox\week 5\codes\primitive calculator\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

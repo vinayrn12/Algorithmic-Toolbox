@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1594991887 source:d:\study\courses\algorithm specialization\algorithm toolbox\week 4\codes\organising lottery\main.cpp
+	<iostream>
+	<vector>
+	<map>
+	<algorithm>
+

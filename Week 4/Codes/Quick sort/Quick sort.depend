@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1594903164 source:d:\study\courses\algorithm specialization\algorithm toolbox\week 4\codes\quick sort\main.cpp
+	<iostream>
+	<vector>
+	<cstdlib>
+

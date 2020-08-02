@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1594651813 source:d:\study\courses\algorithm specialization\algorithm toolbox\week 3\codes\max ad revenue\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

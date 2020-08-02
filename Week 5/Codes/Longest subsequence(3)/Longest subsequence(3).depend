@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1595102066 source:d:\study\courses\algorithm specialization\algorithm toolbox\week 5\codes\longest subsequence(3)\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

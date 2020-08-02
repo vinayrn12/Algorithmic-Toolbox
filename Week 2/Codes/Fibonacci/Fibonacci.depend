@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1594391477 source:d:\study\courses\algorithm specialization\algorithm toolbox\week 1\codes\fibonacci\main.cpp
+	<iostream>
+	<vector>
+

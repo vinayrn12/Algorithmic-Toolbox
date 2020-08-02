@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1594825304 source:d:\study\courses\algorithm specialization\algorithm toolbox\week 4\codes\majority element\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1595482878 source:d:\study\courses\algorithm specialization\algorithm toolbox\week 6\codes\max amount of gold\main.cpp
+	<iostream>
+	<vector>
+
